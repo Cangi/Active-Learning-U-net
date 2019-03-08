@@ -1,0 +1,346 @@
+Arguments Loaded
+Arguments Loaded
+Arguments Loaded
+Arguments Loaded
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 18
+Number of initial unlabeled data: 0
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 8
+Number of testing data: 4
