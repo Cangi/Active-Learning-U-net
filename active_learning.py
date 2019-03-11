@@ -28,13 +28,18 @@ class ActiveLearning:
         count = batch_s * iters
         return self.train_images[count:(count + batch_s)], self.train_labels[count:(count + batch_s)]
     
+    def reset_model(self):
+        pass
+
     def get_embedings(self, images, labels):
+        #Use the same model as the one trainned and reset it after each active loop
         model_for_embedings = model.Model('_embedings')
         init = tf.global_variables_initializer()
         sess = tf.Session()
         sess.run(init)
         feed_dict = {model_for_embedings.X : images, model_for_embedings.Y_: labels, model_for_embedings.lr: 0.0005}
-        _, _, embedings = sess.run([model_for_embedings.loss, model_for_embedings.optimizer, model_for_embedings.conv2], feed_dict=feed_dict)
+        reshape = tf.reshape(model_for_embedings.conv2, [-1, (32 * 32 * 128)])
+        embedings = sess.run([reshape], feed_dict=feed_dict)
         return embedings
 
     def update_labeled_data(self,labeled_data):
@@ -51,7 +56,7 @@ class ActiveLearning:
         for epoch in range(1, 100):
 
             for i in range(8):
-                if(batch_count > 67):
+                if(batch_count > 8):
                     batch_count = 0    
 
                 batch_X, batch_Y = self.next_batch(10, batch_count)
@@ -75,15 +80,16 @@ class ActiveLearning:
         self.model = model.Model('')
         saver = tf.train.Saver()
         sess = tf.Session()
-        saver.restore(sess, os.path.realpath('') + '/trained_models/model_18/model.ckpt')
+        path = os.path.realpath('') + '/trained_models/model_' + str(len(self.train_images)) + '/model.ckpt'
+        saver.restore(sess, path)
 
-        print('Model loaded from: ' + os.path.realpath('') + '/trained_models/model_18/')
+        print('Model loaded from: ' + path)
 
         ix = 3 #random.randint(0, 64) #len(X_test) - 1 = 64
         test_image = x[ix].astype(float)
         test_image = np.reshape(test_image, [-1, 128 , 128, 3])
-        test_data = {self.model.X:test_image}
+        test_data = {self.model.X:test_image,self.model.Y_:y}
 
-        predictions = sess.run([self.model.logits],feed_dict=test_data)
+        loss,predictions = sess.run([self.model.loss,self.model.logits],feed_dict=test_data)
         predictions = np.reshape(predictions,[-1])
-        return predictions, predicted_label
+        return loss,predictions, predicted_label

@@ -2,7 +2,7 @@ import numpy as np
 
 from active_learning import ActiveLearning
 
-
+#Add this one as well
 class RandomSampling(ActiveLearning):
     """
     The class is for random query method that randomly selects data to be labeled rather than use any

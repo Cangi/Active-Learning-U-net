@@ -1,9 +1,9 @@
 import numpy as np
-from strategy import Strategy
+from active_learning import ActiveLearning
 from scipy.spatial import distance_matrix
 
-
-class KCentreGreedySampling(Strategy):
+#Change this to work
+class KCentreGreedySampling(ActiveLearning):
     """
     This class is for K-Centre sampling using the embedded features for active learning. This method uses the model
     trained model to extract features from the data. These features are then covered using the K-Centre cover method
@@ -11,10 +11,10 @@ class KCentreGreedySampling(Strategy):
     """
 
     def query(self, n):
-        unlabeled_indices = np.arange(self.pool_size)[~self.labeled_indices]
-        labeled_indices = np.arange(self.pool_size)[self.labeled_indices]
+        unlabeled_indices = np.arange(self.pool_size)[~self.labeled_data]
+        labeled_indices = np.arange(self.pool_size)[self.labeled_data]
 
-        embeddings = self.get_embeddings(self.x, self.y).numpy()
+        embeddings = self.get_embedings(self.train_images[unlabeled_indices], self.train_labels[unlabeled_indices])
 
         labeled = embeddings[labeled_indices]
         unlabeled = embeddings[unlabeled_indices]

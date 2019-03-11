@@ -53,8 +53,11 @@ if __name__ == '__main__':
         losses = np.zeros(arguments.num_iterations + 1)
 
         query_strategies.train()
-        predictions, prediction_labels = query_strategies.predict(x_test, y_test)
-        losses = tf.nn.softmax_cross_entropy_with_logits_v2(labels=predictions,logits=model.logits)
+        loss,predictions, prediction_labels = query_strategies.predict(x_test, y_test)
+        #print(model.logits.shape)
+        #print([predictions.shape])
+        
+        losses = loss
         #predictions, prediction_labels = predictions.numpy(), prediction_labels.numpy()
         # accuracy[0] = 1.0 * (y_test == prediction_labels).sum().item() / len(y_test)
         # cmat = metrics.confusion_matrix(y_test, prediction_labels)

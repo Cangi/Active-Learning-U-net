@@ -1,346 +1,214 @@
 Arguments Loaded
 Arguments Loaded
-Arguments Loaded
-Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 82
+Number of testing data: 4
 Arguments Loaded
 
 ---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 82
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 82
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 82
+Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 82
+Number of testing data: 4
+
+---------- Iteration 1
 Number of initial labeled data: 18
-Number of initial unlabeled data: 0
+Number of initial unlabeled data: 74
 Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_4:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 2
+Number of initial labeled data: 26
+Number of initial unlabeled data: 66
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_5:0", shape=(128, 128), dtype=float32)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Arguments Loaded
 
 ---------- Iteration 0
 Number of initial labeled data: 10
-Number of initial unlabeled data: 8
+Number of initial unlabeled data: 82
 Number of testing data: 4
+
+---------- Iteration 1
+Number of initial labeled data: 18
+Number of initial unlabeled data: 74
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_4:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 2
+Number of initial labeled data: 26
+Number of initial unlabeled data: 66
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_5:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 3
+Number of initial labeled data: 34
+Number of initial unlabeled data: 58
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_6:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 4
+Number of initial labeled data: 42
+Number of initial unlabeled data: 50
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_7:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 5
+Number of initial labeled data: 50
+Number of initial unlabeled data: 42
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_8:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 6
+Number of initial labeled data: 58
+Number of initial unlabeled data: 34
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_9:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 7
+Number of initial labeled data: 66
+Number of initial unlabeled data: 26
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_10:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 8
+Number of initial labeled data: 74
+Number of initial unlabeled data: 18
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_11:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 9
+Number of initial labeled data: 82
+Number of initial unlabeled data: 10
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_12:0", shape=(128, 128), dtype=float32)
+
+
+
+
+---------- Iteration 10
+Number of initial labeled data: 90
+Number of initial unlabeled data: 2
+Number of testing data: 4
+
+Testing Accuracy: 0.0
+Testing Mean-Class Accuracy: 0.0
+Testing Loss: Tensor("strided_slice_13:0", shape=(128, 128), dtype=float32)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Arguments Loaded
 
 ---------- Iteration 0
 Number of initial labeled data: 10
-Number of initial unlabeled data: 8
+Number of initial unlabeled data: 82
 Number of testing data: 4
-Arguments Loaded
 
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 8
+---------- Iteration 1
+Number of initial labeled data: 18
+Number of initial unlabeled data: 74
 Number of testing data: 4

@@ -20,14 +20,13 @@ class KMeansSampling(ActiveLearning):
 
         unlabeled_indices = np.arange(self.pool_size)[~self.labeled_data]
         embeddings = self.get_embedings(self.train_images[unlabeled_indices], self.train_labels[unlabeled_indices])
-        print(embeddings[0,:,:,0])
+        print(len(embeddings[0]))
         cluster_learner = KMeans(n_clusters=n, n_jobs=-1)
-        cluster_learner.fit(embeddings[0,:,:,0])
-        cluster_indices = cluster_learner.predict(embeddings[0,:,:,0])
+        cluster_learner.fit(embeddings[0])
+        cluster_indices = cluster_learner.predict(embeddings[0])
         centers = cluster_learner.cluster_centers_[cluster_indices]
-        distances = (embeddings[0,:,:,0] - centers) ** 2
+        distances = (embeddings[0] - centers) ** 2
         distances = distances.sum(axis=1)
-        query_indices = np.array([np.arange(embeddings.shape[0])[cluster_indices == i]
-                                  [distances[cluster_indices == i].argmin()] for i in range(n)])
+        query_indices = np.array([np.arange(len(embeddings[0]))[cluster_indices == i][distances[cluster_indices == i].argmin()] for i in range(n)])
 
         return unlabeled_indices[query_indices]
