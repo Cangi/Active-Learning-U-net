@@ -33,12 +33,11 @@ class ActiveLearning:
 
     def get_embedings(self, images, labels):
         #Use the same model as the one trainned and reset it after each active loop
-        model_for_embedings = model.Model('_embedings')
         init = tf.global_variables_initializer()
         sess = tf.Session()
         sess.run(init)
-        feed_dict = {model_for_embedings.X : images, model_for_embedings.Y_: labels, model_for_embedings.lr: 0.0005}
-        reshape = tf.reshape(model_for_embedings.conv2, [-1, (32 * 32 * 128)])
+        feed_dict = {self.model.X : images, self.model.Y_: labels, self.model.lr: 0.0005}
+        reshape = tf.reshape(self.model.conv2, [-1, (32 * 32 * 128)])
         embedings = sess.run([reshape], feed_dict=feed_dict)
         return embedings
 
@@ -76,8 +75,6 @@ class ActiveLearning:
     def predict(self, x, y):
         predicted_label = tf.zeros(len(y), dtype=tf.float64)
         predictions = tf.zeros([len(y), len(np.unique(y))])
-        tf.reset_default_graph()
-        self.model = model.Model('')
         saver = tf.train.Saver()
         sess = tf.Session()
         path = os.path.realpath('') + '/trained_models/model_' + str(len(self.train_images)) + '/model.ckpt'
@@ -88,8 +85,11 @@ class ActiveLearning:
         ix = 3 #random.randint(0, 64) #len(X_test) - 1 = 64
         test_image = x[ix].astype(float)
         test_image = np.reshape(test_image, [-1, 128 , 128, 3])
-        test_data = {self.model.X:test_image,self.model.Y_:y}
+        test_data = {self.model.X:test_image}
 
-        loss,predictions = sess.run([self.model.loss,self.model.logits],feed_dict=test_data)
-        predictions = np.reshape(predictions,[-1])
-        return loss,predictions, predicted_label
+        predictions = sess.run([self.model.logits],feed_dict=test_data)
+        predictions = np.reshape(np.squeeze(predictions), [128 , 128, 1])
+        for i in range(128):
+            for j in range(128):
+                predictions[i][j] = int(self.model.sigmoid(predictions[i][j])*255)
+        return predictions, predicted_label

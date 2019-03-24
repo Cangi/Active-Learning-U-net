@@ -1,195 +1,207 @@
 Arguments Loaded
-Arguments Loaded
 
 ---------- Iteration 0
 Number of initial labeled data: 10
 Number of initial unlabeled data: 82
 Number of testing data: 4
-Arguments Loaded
 
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 82
-Number of testing data: 4
-Arguments Loaded
+Jaccard Similarity: 0.4483642578125
 
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 82
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 82
-Number of testing data: 4
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 82
-Number of testing data: 4
+Dice: 0.36084919646563485
 
 ---------- Iteration 1
 Number of initial labeled data: 18
 Number of initial unlabeled data: 74
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_4:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.56622314453125
 
-
-
+Dice: 0.34935662377491833
 
 ---------- Iteration 2
 Number of initial labeled data: 26
 Number of initial unlabeled data: 66
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_5:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.442138671875
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Arguments Loaded
-
----------- Iteration 0
-Number of initial labeled data: 10
-Number of initial unlabeled data: 82
-Number of testing data: 4
-
----------- Iteration 1
-Number of initial labeled data: 18
-Number of initial unlabeled data: 74
-Number of testing data: 4
-
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_4:0", shape=(128, 128), dtype=float32)
-
-
-
-
----------- Iteration 2
-Number of initial labeled data: 26
-Number of initial unlabeled data: 66
-Number of testing data: 4
-
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_5:0", shape=(128, 128), dtype=float32)
-
-
-
+Dice: 0.5657659580143509
 
 ---------- Iteration 3
 Number of initial labeled data: 34
 Number of initial unlabeled data: 58
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_6:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.4105224609375
 
-
-
+Dice: 0.5038800506475108
 
 ---------- Iteration 4
 Number of initial labeled data: 42
 Number of initial unlabeled data: 50
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_7:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.51922607421875
 
-
-
+Dice: 0.8432827907963101
 
 ---------- Iteration 5
 Number of initial labeled data: 50
 Number of initial unlabeled data: 42
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_8:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.42333984375
 
-
-
+Dice: 0.34465990226224025
 
 ---------- Iteration 6
 Number of initial labeled data: 58
 Number of initial unlabeled data: 34
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_9:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.4808349609375
 
-
-
+Dice: 1.0
 
 ---------- Iteration 7
 Number of initial labeled data: 66
 Number of initial unlabeled data: 26
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_10:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.54632568359375
 
-
-
+Dice: 0.2515232849528704
 
 ---------- Iteration 8
 Number of initial labeled data: 74
 Number of initial unlabeled data: 18
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_11:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.5198974609375
 
-
-
+Dice: 0.7269898624912176
 
 ---------- Iteration 9
 Number of initial labeled data: 82
 Number of initial unlabeled data: 10
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_12:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.49969482421875
 
-
-
+Dice: 0.9293769222007062
 
 ---------- Iteration 10
 Number of initial labeled data: 90
 Number of initial unlabeled data: 2
 Number of testing data: 4
 
-Testing Accuracy: 0.0
-Testing Mean-Class Accuracy: 0.0
-Testing Loss: Tensor("strided_slice_13:0", shape=(128, 128), dtype=float32)
+Jaccard Similarity: 0.140625
 
+Dice: 0.44774332882922774
+Arguments Loaded
 
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 82
+Number of testing data: 4
 
+Jaccard Similarity: 0.519775390625
+
+Dice: 0.8604294478527608
+
+---------- Iteration 1
+Number of initial labeled data: 18
+Number of initial unlabeled data: 74
+Number of testing data: 4
+
+Jaccard Similarity: 0.4835205078125
+
+Dice: 0.9190639759553456
+
+---------- Iteration 2
+Number of initial labeled data: 26
+Number of initial unlabeled data: 66
+Number of testing data: 4
+
+Jaccard Similarity: 0.47882080078125
+
+Dice: 0.9826493159826493
+
+---------- Iteration 3
+Number of initial labeled data: 34
+Number of initial unlabeled data: 58
+Number of testing data: 4
+
+Jaccard Similarity: 0.554443359375
+
+Dice: 0.6
+
+---------- Iteration 4
+Number of initial labeled data: 42
+Number of initial unlabeled data: 50
+Number of testing data: 4
+
+Jaccard Similarity: 0.46429443359375
+
+Dice: 0.9417691256830601
+
+---------- Iteration 5
+Number of initial labeled data: 50
+Number of initial unlabeled data: 42
+Number of testing data: 4
+
+Jaccard Similarity: 0.48724365234375
+
+Dice: 0.3701012075543084
+
+---------- Iteration 6
+Number of initial labeled data: 58
+Number of initial unlabeled data: 34
+Number of testing data: 4
+
+Jaccard Similarity: 0.49560546875
+
+Dice: 0.8632274845561938
+
+---------- Iteration 7
+Number of initial labeled data: 66
+Number of initial unlabeled data: 26
+Number of testing data: 4
+
+Jaccard Similarity: 0.45318603515625
+
+Dice: 0.991050730497601
+
+---------- Iteration 8
+Number of initial labeled data: 74
+Number of initial unlabeled data: 18
+Number of testing data: 4
+
+Jaccard Similarity: 0.44024658203125
+
+Dice: 0.3985353946297803
+
+---------- Iteration 9
+Number of initial labeled data: 82
+Number of initial unlabeled data: 10
+Number of testing data: 4
+
+Jaccard Similarity: 0.5081787109375
+
+Dice: 0.5758491766764776
+
+---------- Iteration 10
+Number of initial labeled data: 90
+Number of initial unlabeled data: 2
+Number of testing data: 4
+
+Jaccard Similarity: 0.52801513671875
+
+Dice: 0.8042181508308479
+Jaccard Similarity: [0.51977539 0.48352051 0.4788208  0.55444336 0.46429443 0.48724365
+ 0.49560547 0.45318604 0.44024658 0.50817871 0.52801514]
+Dice: [0.86042945 0.91906398 0.98264932 0.6        0.94176913 0.37010121
+ 0.86322748 0.99105073 0.39853539 0.57584918 0.80421815]
 
 
 
@@ -207,8 +219,179 @@ Arguments Loaded
 Number of initial labeled data: 10
 Number of initial unlabeled data: 82
 Number of testing data: 4
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 82
+Number of testing data: 4
+
+Jaccard Similarity: 0.39697265625
+
+Dice: 0.3527408952083929
 
 ---------- Iteration 1
 Number of initial labeled data: 18
 Number of initial unlabeled data: 74
 Number of testing data: 4
+
+Jaccard Similarity: 0.59051513671875
+
+Dice: 0.4188676437765047
+
+---------- Iteration 2
+Number of initial labeled data: 26
+Number of initial unlabeled data: 66
+Number of testing data: 4
+
+Jaccard Similarity: 0.12701416015625
+
+Dice: 0.7393553281550385
+
+---------- Iteration 3
+Number of initial labeled data: 34
+Number of initial unlabeled data: 58
+Number of testing data: 4
+
+Jaccard Similarity: 0.4619140625
+
+Dice: 0.35487369918776995
+
+---------- Iteration 4
+Number of initial labeled data: 42
+Number of initial unlabeled data: 50
+Number of testing data: 4
+
+Jaccard Similarity: 0.548828125
+
+Dice: 0.6127080181543116
+
+---------- Iteration 5
+Number of initial labeled data: 50
+Number of initial unlabeled data: 42
+Number of testing data: 4
+
+Jaccard Similarity: 0.5357666015625
+
+Dice: 0.5881227798524455
+
+---------- Iteration 6
+Number of initial labeled data: 58
+Number of initial unlabeled data: 34
+Number of testing data: 4
+
+Jaccard Similarity: 0.48309326171875
+
+Dice: 1.0
+
+---------- Iteration 7
+Number of initial labeled data: 66
+Number of initial unlabeled data: 26
+Number of testing data: 4
+
+Jaccard Similarity: 0.49542236328125
+
+Dice: 0.330473385409997
+
+---------- Iteration 8
+Number of initial labeled data: 74
+Number of initial unlabeled data: 18
+Number of testing data: 4
+
+Jaccard Similarity: 0.53448486328125
+
+Dice: -0.18432155332758698
+
+---------- Iteration 9
+Number of initial labeled data: 82
+Number of initial unlabeled data: 10
+Number of testing data: 4
+
+Jaccard Similarity: 0.57696533203125
+
+Dice: 0.4732778587972892
+
+---------- Iteration 10
+Number of initial labeled data: 90
+Number of initial unlabeled data: 2
+Number of testing data: 4
+
+Jaccard Similarity: 0.531005859375
+
+Dice: 0.07094799846988141
+Jaccard Similarity: 0.48018022017045453
+Dice: 0.4324587321530948
+
+
+
+
+
+
+
+
+
+
+
+Arguments Loaded
+Arguments Loaded
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 40
+Number of testing data: 50
+Arguments Loaded
+
+---------- Iteration 0
+Number of initial labeled data: 10
+Number of initial unlabeled data: 40
+Number of testing data: 50
+
+Jaccard Similarity: 0.04339599609375
+
+Dice: -0.02353021649167208
+
+---------- Iteration 1
+Number of initial labeled data: 18
+Number of initial unlabeled data: 32
+Number of testing data: 50
+
+Jaccard Similarity: 0.01654052734375
+
+Dice: -0.2450413840229162
+
+---------- Iteration 2
+Number of initial labeled data: 26
+Number of initial unlabeled data: 24
+Number of testing data: 50
+
+Jaccard Similarity: 0.386474609375
+
+Dice: 1.0
+
+---------- Iteration 3
+Number of initial labeled data: 34
+Number of initial unlabeled data: 16
+Number of testing data: 50
+
+Jaccard Similarity: 0.38037109375
+
+Dice: 0.9873577749683944
+
+---------- Iteration 4
+Number of initial labeled data: 42
+Number of initial unlabeled data: 8
+Number of testing data: 50
+
+Jaccard Similarity: 6.103515625e-05
+
+Dice: 0.10607852294972822
+
+---------- Iteration 5
+Number of initial labeled data: 50
+Number of initial unlabeled data: 0
+Number of testing data: 50
+
+Jaccard Similarity: 0.163330078125
+
+Dice: 0.14172562150096307

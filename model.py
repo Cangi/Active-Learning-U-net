@@ -39,4 +39,8 @@ class Model():
         return tf.layers.conv2d(input_tensor, filters=depth, kernel_size=kernel, strides=strides, padding=padding, activation=tf.nn.relu, name=name)
 
     def sigmoid(self, x):
-        return 1 / (1 + math.exp(-x))
+        if x < 0:
+            return 1 - 1/(1 + math.exp(x))
+        else:
+            return 1 / (1 + math.exp(-x))
+        #return 1 / (1 + math.exp(-x))

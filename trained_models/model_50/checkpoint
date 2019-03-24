@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\qronn\\Desktop\\newHon/trained_models/model_50/model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\qronn\\Desktop\\newHon/trained_models/model_50/model.ckpt"
